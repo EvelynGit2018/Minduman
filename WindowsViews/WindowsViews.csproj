@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B35B88D0-EEF0-4494-9568-F91D8E7AF7B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsViews</RootNamespace>
+    <AssemblyName>WindowsViews</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\..\Web\CapaDalc\CapaDalc\bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin">
+      <HintPath>..\Packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\Packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\Packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\Packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Views\GestionarMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GestionarMaquinaria.Designer.cs">
+      <DependentUpon>GestionarMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GestionarVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GestionarVehiculos.Designer.cs">
+      <DependentUpon>GestionarVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionesVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionesVehiculos.Designer.cs">
+      <DependentUpon>HistorialMantencionesVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionMaquinaria.Designer.cs">
+      <DependentUpon>HistorialMantencionMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionTrasportadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\HistorialMantencionTrasportadores.Designer.cs">
+      <DependentUpon>HistorialMantencionTrasportadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IngresoMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\IngresoMaquinaria.Designer.cs">
+      <DependentUpon>IngresoMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IngresoOT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\IngresoOT.Designer.cs">
+      <DependentUpon>IngresoOT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IngresoTrasportadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\IngresoTrasportadores.Designer.cs">
+      <DependentUpon>IngresoTrasportadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IngresoVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\IngresoVehiculos.Designer.cs">
+      <DependentUpon>IngresoVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ListadoMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ListadoMaquinaria.Designer.cs">
+      <DependentUpon>ListadoMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ListadoTrasportadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ListadoTrasportadores.Designer.cs">
+      <DependentUpon>ListadoTrasportadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ListadoVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ListadoVehiculos.Designer.cs">
+      <DependentUpon>ListadoVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MenuMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MenuMaquinaria.Designer.cs">
+      <DependentUpon>MenuMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\MenuTrasportadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MenuTrasportadores.Designer.cs">
+      <DependentUpon>MenuTrasportadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MenuVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MenuVehiculos.Designer.cs">
+      <DependentUpon>MenuVehiculos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\GestionarMaquinaria.resx">
+      <DependentUpon>GestionarMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GestionarVehiculos.resx">
+      <DependentUpon>GestionarVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HistorialMantencionesVehiculos.resx">
+      <DependentUpon>HistorialMantencionesVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HistorialMantencionMaquinaria.resx">
+      <DependentUpon>HistorialMantencionMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\HistorialMantencionTrasportadores.resx">
+      <DependentUpon>HistorialMantencionTrasportadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IngresoMaquinaria.resx">
+      <DependentUpon>IngresoMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IngresoOT.resx">
+      <DependentUpon>IngresoOT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IngresoTrasportadores.resx">
+      <DependentUpon>IngresoTrasportadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\IngresoVehiculos.resx">
+      <DependentUpon>IngresoVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ListadoMaquinaria.resx">
+      <DependentUpon>ListadoMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ListadoTrasportadores.resx">
+      <DependentUpon>ListadoTrasportadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ListadoVehiculos.resx">
+      <DependentUpon>ListadoVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MenuMaquinaria.resx">
+      <DependentUpon>MenuMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\MenuTrasportadores.resx">
+      <DependentUpon>MenuTrasportadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MenuVehiculos.resx">
+      <DependentUpon>MenuVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\1197683.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\icono.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\IconoAjuste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\LogoMindugar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{8b95eb66-23ae-449d-9b2b-c18d2fcb267c}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{67718c8e-2b89-4f2d-9afd-877b2fe0f76c}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controls\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
