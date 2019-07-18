@@ -1,0 +1,10 @@
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

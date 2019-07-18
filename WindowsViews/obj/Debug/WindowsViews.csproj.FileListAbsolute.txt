@@ -1,0 +1,90 @@
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\bin\Debug\WindowsViews.exe.config
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.MenuPrincipal.resources
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.Properties.Resources.resources
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.csproj.GenerateResource.Cache
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\bin\Debug\WindowsViews.exe
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\bin\Debug\WindowsViews.pdb
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.exe
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.pdb
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.csprojResolveAssemblyReference.cache
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\obj\Debug\WindowsViews.Login.resources
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\bin\Debug\EntityFramework.dll
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\WindowsViews\bin\Debug\EntityFramework.xml
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\bin\Debug\WindowsViews.exe.config
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.exe
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.pdb
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\bin\Debug\WindowsViews.exe
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\bin\Debug\WindowsViews.pdb
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Login.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.MenuPrincipal.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Properties.Resources.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.csproj.GenerateResource.Cache
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.GestionarMaquinaria.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.MenuMaquinaria.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.GestionarVehiculos.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.csprojResolveAssemblyReference.cache
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.MenuVehiculos.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.IngresoOT.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.IngresoVehiculos.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.ListadoVehiculos.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.IngresoMaquinaria.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.ListadoMaquinaria.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionesVehiculos.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionMaquinaria.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.MenuTrasportadores.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.GestionarTrasportadores.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionTrasportadores.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.IngresoTrasportadores.resources
+C:\Users\ffranco\Source\Repos\Mantenimiento\WindowsViews\obj\Debug\WindowsViews.Views.ListadoTrasportadores.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\bin\Debug\WindowsViews.exe.config
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\bin\Debug\WindowsViews.exe
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\bin\Debug\WindowsViews.pdb
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.csprojAssemblyReference.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.GestionarMaquinaria.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.FrmPrincipal.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.GestionarVehiculos.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionesVehiculos.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionMaquinaria.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionTrasportadores.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.IngresoMaquinaria.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.IngresoOT.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.IngresoTrasportadores.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.IngresoVehiculos.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.ListadoMaquinaria.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.ListadoTrasportadores.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.ListadoVehiculos.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Login.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.MenuMaquinaria.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.MenuPrincipal.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Properties.Resources.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.MenuTrasportadores.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.Views.MenuVehiculos.resources
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.csproj.GenerateResource.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.csproj.CopyComplete
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.exe
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csprojAssemblyReference.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.GestionarMaquinaria.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.FrmPrincipal.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.GestionarVehiculos.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionesVehiculos.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionMaquinaria.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.HistorialMantencionTrasportadores.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.IngresoMaquinaria.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.IngresoOT.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.IngresoTrasportadores.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.IngresoVehiculos.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.ListadoMaquinaria.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.ListadoTrasportadores.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.ListadoVehiculos.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Login.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.MenuMaquinaria.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.MenuPrincipal.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Properties.Resources.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.MenuTrasportadores.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.MenuVehiculos.resources
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csproj.GenerateResource.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.exe
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.pdb

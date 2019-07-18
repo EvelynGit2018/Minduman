@@ -1,0 +1,4 @@
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache

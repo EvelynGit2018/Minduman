@@ -1,0 +1,24 @@
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\bin\Debug\DaoClases.dll
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\bin\Debug\DaoClases.pdb
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\obj\Debug\DaoClases.csprojResolveAssemblyReference.cache
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\obj\Debug\DaoClases.dll
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\obj\Debug\DaoClases.pdb
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\bin\Debug\WindowsViews.exe
+C:\Users\Pipe Feanco\Desktop\Practica mindugar\ProyectoMantenimiento\WindowsViews\DaoClases\bin\Debug\WindowsViews.pdb
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\obj\Debug\DaoClases.csprojResolveAssemblyReference.cache
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\obj\Debug\DaoClases.dll
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\obj\Debug\DaoClases.pdb
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\bin\Debug\DaoClases.dll
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\bin\Debug\DaoClases.pdb
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\bin\Debug\WindowsViews.exe
+C:\Users\ffranco\Source\Repos\Mantenimiento\DaoClases\bin\Debug\WindowsViews.pdb
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\bin\Debug\DaoClases.dll
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\bin\Debug\DaoClases.pdb
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\bin\Debug\WindowsViews.exe
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\bin\Debug\WindowsViews.pdb
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\bin\Debug\WindowsViews.exe.config
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\obj\Debug\DaoClases.csprojAssemblyReference.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\obj\Debug\DaoClases.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\obj\Debug\DaoClases.csproj.CopyComplete
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\obj\Debug\DaoClases.dll
+C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\DaoClases\obj\Debug\DaoClases.pdb
