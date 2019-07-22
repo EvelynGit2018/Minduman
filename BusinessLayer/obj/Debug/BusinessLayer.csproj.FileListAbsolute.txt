@@ -1,4 +1,14 @@
 C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
 C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\Entities.pdb
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.pdb

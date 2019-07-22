@@ -150,32 +150,34 @@ namespace WindowsViews
                                 //frmReportesG.ConfigurarListaAcceso();
                                 //ClosedFadeOutAsync();
                                 break;
-                                MetroMessageBox.Show(frmParentForm, "No Posee la Autorizacion en MinduMas para Acceder al Sistema",
-                                          "Acceso No Habilitado",
-                                          MessageBoxButtons.OK,
-                                          MessageBoxIcon.Information,
-                                          370);
+                                //MetroMessageBox.Show(frmParentForm, "No Posee la Autorizacion en MinduMas para Acceder al Sistema",
+                                //          "Acceso No Habilitado",
+                                //          MessageBoxButtons.OK,
+                                //          MessageBoxIcon.Information,
+                                //          370);
                                 break;
                         }
                     }
                     else
                     {
-                        MetroFramework.MetroMessageBox.Show(frmParentForm, "La Contraseña no Coincide",
-                                            "Contraseña Incorrecta",
-                                            MessageBoxButtons.OK,
-                                            MessageBoxIcon.Information,
-                                            370);
-                        TxtBx_Password.Focus();
+                        
+                        //MetroFramework.MetroMessageBox.Show(frmParentForm, "La Contraseña no Coincide",
+                        //                    "Contraseña Incorrecta",
+                        //                    MessageBoxButtons.OK,
+                        //                    MessageBoxIcon.Information,
+                        //                    370);
+                        //TxtBx_Password.Focus();
+                        
                     }
                 }
                 else
                 {
-                    MetroFramework.MetroMessageBox.Show(frmParentForm, "Numero de RUT No Registrado en la Base de Datos",
-                                                "RUT Sin Coincidencia",
-                                                MessageBoxButtons.OK,
-                                                MessageBoxIcon.Information,
-                                                370);
-                    TxtBx_UserID.Focus();
+                    //MetroFramework.MetroMessageBox.Show(frmParentForm, "Numero de RUT No Registrado en la Base de Datos",
+                    //                            "RUT Sin Coincidencia",
+                    //                            MessageBoxButtons.OK,
+                    //                            MessageBoxIcon.Information,
+                    //                            370);
+                    //TxtBx_UserID.Focus();
                 }
             }
         }

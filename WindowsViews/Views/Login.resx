@@ -159,45 +159,6 @@
   <data name="&gt;&gt;BtnSalir.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="resource.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="resource.Location" type="System.Drawing.Point, System.Drawing">
-    <value>53, 1</value>
-  </data>
-  <data name="resource.Size" type="System.Drawing.Size, System.Drawing">
-    <value>21, 21</value>
-  </data>
-  <data name="resource.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="resource.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="metroTextBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>292, 187</value>
-  </data>
-  <data name="metroTextBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="metroTextBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="metroTextBox1.Text" xml:space="preserve">
-    <value>metroTextBox1</value>
-  </data>
-  <data name="&gt;&gt;metroTextBox1.Name" xml:space="preserve">
-    <value>metroTextBox1</value>
-  </data>
-  <data name="&gt;&gt;metroTextBox1.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroTextBox1.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;metroTextBox1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
@@ -247,7 +208,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -280,7 +241,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -310,7 +271,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -340,7 +301,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="BtnIngresar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -367,7 +328,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;BtnIngresar.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="txtPass.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 172</value>
@@ -388,7 +349,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;txtPass.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="txtUsser.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 126</value>
@@ -409,7 +370,7 @@
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;txtUsser.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
     <value>5, 5</value>

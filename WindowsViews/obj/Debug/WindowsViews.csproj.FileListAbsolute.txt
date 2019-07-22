@@ -64,6 +64,19 @@ C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranc
 C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.csproj.CopyComplete
 C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.exe
 C:\Users\eveliz\Downloads\Mantenimiento-PipeBranches (2)\Mantenimiento-PipeBranches\WindowsViews\obj\Debug\WindowsViews.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\WindowsViews.exe.config
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\WindowsViews.exe
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\WindowsViews.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\BusinessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\Entities.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\MetroFramework.Design.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\MetroFramework.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\DataAccessLayer.dll
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\BusinessLayer.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\Entities.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\DataAccessLayer.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\bin\Debug\DataAccessLayer.dll.config
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csprojAssemblyReference.cache
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.GestionarMaquinaria.resources
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.FrmPrincipal.resources
@@ -86,5 +99,6 @@ C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.Views.MenuVehiculos.resources
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csproj.GenerateResource.cache
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csproj.CoreCompileInputs.cache
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.csproj.CopyComplete
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.exe
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\WindowsViews\obj\Debug\WindowsViews.pdb

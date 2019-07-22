@@ -63,7 +63,7 @@ namespace WindowsViews.Views
             btnGT.Visible = false;
             btnGM.Visible = false;
             btnGV.Visible = false;
-            PosicionMenuAcceso(3); // Aca se pasa la variable con el numero de TipoAcceso en este caso 0 como prueba Admin..
+            PosicionMenuAcceso(2); // Aca se pasa la variable con el numero de TipoAcceso en este caso 0 como prueba Admin..
         }
         public void ConfigurarMenuAcceso()
         {
