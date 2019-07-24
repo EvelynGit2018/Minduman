@@ -1,5 +1,11 @@
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\bin\Debug\Entities.dll
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\bin\Debug\Entities.pdb
+C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.dll
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\Entities\bin\Debug\Entities.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\Entities\bin\Debug\Entities.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\Entities\obj\Debug\Entities.pdb

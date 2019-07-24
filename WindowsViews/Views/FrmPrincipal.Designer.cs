@@ -43,10 +43,12 @@
             this.button5 = new System.Windows.Forms.Button();
             this.btnGV = new System.Windows.Forms.Button();
             this.pnlGM = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.BtnMantencionesMaquina = new System.Windows.Forms.Button();
             this.panel9 = new System.Windows.Forms.Panel();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
+            this.BtnConsultaMaquina = new System.Windows.Forms.Button();
+            this.BtnIngresoMaquina = new System.Windows.Forms.Button();
             this.btnGM = new System.Windows.Forms.Button();
             this.btnGT = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -95,7 +97,7 @@
             this.pnlGT.Controls.Add(this.panel4);
             this.pnlGT.Controls.Add(this.button1);
             this.pnlGT.Controls.Add(this.button2);
-            this.pnlGT.Location = new System.Drawing.Point(38, 335);
+            this.pnlGT.Location = new System.Drawing.Point(23, 286);
             this.pnlGT.Name = "pnlGT";
             this.pnlGT.Size = new System.Drawing.Size(308, 91);
             this.pnlGT.TabIndex = 13;
@@ -226,14 +228,40 @@
             // 
             // pnlGM
             // 
+            this.pnlGM.Controls.Add(this.panel2);
+            this.pnlGM.Controls.Add(this.BtnMantencionesMaquina);
             this.pnlGM.Controls.Add(this.panel9);
             this.pnlGM.Controls.Add(this.panel10);
-            this.pnlGM.Controls.Add(this.button7);
-            this.pnlGM.Controls.Add(this.button8);
-            this.pnlGM.Location = new System.Drawing.Point(38, 432);
+            this.pnlGM.Controls.Add(this.BtnConsultaMaquina);
+            this.pnlGM.Controls.Add(this.BtnIngresoMaquina);
+            this.pnlGM.Location = new System.Drawing.Point(23, 378);
             this.pnlGM.Name = "pnlGM";
-            this.pnlGM.Size = new System.Drawing.Size(308, 91);
+            this.pnlGM.Size = new System.Drawing.Size(308, 145);
             this.pnlGM.TabIndex = 12;
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(127)))), ((int)(((byte)(188)))), ((int)(((byte)(229)))));
+            this.panel2.Location = new System.Drawing.Point(3, 92);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(10, 40);
+            this.panel2.TabIndex = 7;
+            // 
+            // BtnMantencionesMaquina
+            // 
+            this.BtnMantencionesMaquina.FlatAppearance.BorderSize = 0;
+            this.BtnMantencionesMaquina.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.BtnMantencionesMaquina.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnMantencionesMaquina.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
+            this.BtnMantencionesMaquina.ForeColor = System.Drawing.Color.White;
+            this.BtnMantencionesMaquina.Image = ((System.Drawing.Image)(resources.GetObject("BtnMantencionesMaquina.Image")));
+            this.BtnMantencionesMaquina.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.BtnMantencionesMaquina.Location = new System.Drawing.Point(15, 92);
+            this.BtnMantencionesMaquina.Name = "BtnMantencionesMaquina";
+            this.BtnMantencionesMaquina.Size = new System.Drawing.Size(334, 40);
+            this.BtnMantencionesMaquina.TabIndex = 8;
+            this.BtnMantencionesMaquina.Text = "Mantenciones";
+            this.BtnMantencionesMaquina.UseVisualStyleBackColor = true;
             // 
             // panel9
             // 
@@ -251,37 +279,37 @@
             this.panel10.Size = new System.Drawing.Size(10, 40);
             this.panel10.TabIndex = 5;
             // 
-            // button7
+            // BtnConsultaMaquina
             // 
-            this.button7.FlatAppearance.BorderSize = 0;
-            this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
-            this.button7.ForeColor = System.Drawing.Color.White;
-            this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
-            this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.Location = new System.Drawing.Point(6, 46);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(343, 40);
-            this.button7.TabIndex = 6;
-            this.button7.Text = "Consulta";
-            this.button7.UseVisualStyleBackColor = true;
+            this.BtnConsultaMaquina.FlatAppearance.BorderSize = 0;
+            this.BtnConsultaMaquina.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.BtnConsultaMaquina.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnConsultaMaquina.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
+            this.BtnConsultaMaquina.ForeColor = System.Drawing.Color.White;
+            this.BtnConsultaMaquina.Image = ((System.Drawing.Image)(resources.GetObject("BtnConsultaMaquina.Image")));
+            this.BtnConsultaMaquina.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.BtnConsultaMaquina.Location = new System.Drawing.Point(15, 46);
+            this.BtnConsultaMaquina.Name = "BtnConsultaMaquina";
+            this.BtnConsultaMaquina.Size = new System.Drawing.Size(334, 40);
+            this.BtnConsultaMaquina.TabIndex = 6;
+            this.BtnConsultaMaquina.Text = "Consulta";
+            this.BtnConsultaMaquina.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // BtnIngresoMaquina
             // 
-            this.button8.FlatAppearance.BorderSize = 0;
-            this.button8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
-            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
-            this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Image = ((System.Drawing.Image)(resources.GetObject("button8.Image")));
-            this.button8.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button8.Location = new System.Drawing.Point(6, 0);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(343, 40);
-            this.button8.TabIndex = 5;
-            this.button8.Text = "Ingreso ";
-            this.button8.UseVisualStyleBackColor = true;
+            this.BtnIngresoMaquina.FlatAppearance.BorderSize = 0;
+            this.BtnIngresoMaquina.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.BtnIngresoMaquina.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnIngresoMaquina.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
+            this.BtnIngresoMaquina.ForeColor = System.Drawing.Color.White;
+            this.BtnIngresoMaquina.Image = ((System.Drawing.Image)(resources.GetObject("BtnIngresoMaquina.Image")));
+            this.BtnIngresoMaquina.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.BtnIngresoMaquina.Location = new System.Drawing.Point(15, 0);
+            this.BtnIngresoMaquina.Name = "BtnIngresoMaquina";
+            this.BtnIngresoMaquina.Size = new System.Drawing.Size(334, 40);
+            this.BtnIngresoMaquina.TabIndex = 5;
+            this.BtnIngresoMaquina.Text = "Ingreso ";
+            this.BtnIngresoMaquina.UseVisualStyleBackColor = true;
             // 
             // btnGM
             // 
@@ -439,6 +467,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmPrincipal";
             this.Text = "MenuPrincipal";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.MenuVertical.ResumeLayout(false);
             this.pnlGT.ResumeLayout(false);
             this.pnlGV.ResumeLayout(false);
@@ -479,12 +508,14 @@
         private System.Windows.Forms.Panel pnlGM;
         private System.Windows.Forms.Panel panel9;
         private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button BtnConsultaMaquina;
+        private System.Windows.Forms.Button BtnIngresoMaquina;
         private System.Windows.Forms.Panel pnlGT;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button BtnMantencionesMaquina;
     }
 }

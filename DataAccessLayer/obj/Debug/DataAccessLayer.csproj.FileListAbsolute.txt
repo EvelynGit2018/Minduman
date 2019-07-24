@@ -14,3 +14,11 @@ C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\De
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\bin\Debug\Entities.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\bin\Debug\Entities.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

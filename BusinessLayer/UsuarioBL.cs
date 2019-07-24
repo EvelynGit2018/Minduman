@@ -11,9 +11,9 @@ namespace BusinessLayer
 {
     public static class UsuarioBL
     {
-        public static DataTable VerificarRutPass(string Usser, string Pass)
+        public static DataTable VerificarRutPass(string rutUsuario, string Pass)
         {
-            return UsuarioDALC.Instance().VerificarRutPass(Usser, Pass);
+            return UsuarioDALC.Instance().VerificarRutPass(rutUsuario, Pass);
         }
     }
 }

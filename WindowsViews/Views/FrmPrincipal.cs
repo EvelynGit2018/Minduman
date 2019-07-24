@@ -63,7 +63,7 @@ namespace WindowsViews.Views
             btnGT.Visible = false;
             btnGM.Visible = false;
             btnGV.Visible = false;
-            PosicionMenuAcceso(2); // Aca se pasa la variable con el numero de TipoAcceso en este caso 0 como prueba Admin..
+
         }
         public void ConfigurarMenuAcceso()
         {
@@ -85,7 +85,7 @@ namespace WindowsViews.Views
                     //MenuAccesoAdmin();
                     break;
                 case "INFORMATICA": //TODOS LOS MODULOS
-                    Opt1Open = true;
+                    //Opt1Open = true;
                     AbrirSubMenuP(0);
                     //MenuAccesoAdmin();
                     break;
@@ -97,7 +97,7 @@ namespace WindowsViews.Views
 
                 foreach (Form OpenForm in Application.OpenForms)
                 {
-                    if (OpenForm.Name != "FrmPrincipalPanel")
+                    if (OpenForm.Name != "FrmPrincipal")
                         lform.Add(OpenForm);
                 }
 
@@ -107,6 +107,8 @@ namespace WindowsViews.Views
                 }
             }
 
+            PosicionMenuAcceso(Convert.ToInt32(TipoAcceso.Trim())); // Aca se pasa la variable con el numero de TipoAcceso en este caso 0 como prueba Admin..
+            
         }
 
         private void PosicionMenuAcceso(int TipoAcceso)
@@ -417,18 +419,30 @@ namespace WindowsViews.Views
 
         private void btnGT_Click(object sender, EventArgs e)
         {
-
+            if (TipoAcceso != "PRODUCCION")
+                
             AbrirSubMenuP(1);
         }
 
         private void btnGM_Click(object sender, EventArgs e)
         {
+            if (TipoAcceso != "PRODUCCION")
+               
             AbrirSubMenuP(2);
         }
 
         private void btnGV_Click(object sender, EventArgs e)
         {
+            if (TipoAcceso != "MANTENCION")
+               
             AbrirSubMenuP(3);
+        }
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Login formLogin = new Login();
+            formLogin.ShowDialog(); //Con ShowDialog hacemos la pantalla modal
         }
     }
 }

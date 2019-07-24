@@ -27,7 +27,8 @@ namespace WindowsViews
 
         private void BtnSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
+
         }
 
         private void Login_Load(object sender, EventArgs e)
@@ -69,16 +70,17 @@ namespace WindowsViews
                                 Usuario.Instance().Apellido = dtUserInfo.Rows[0].Field<string>("Apellido");
                                 Usuario.Instance().Area = dtUserInfo.Rows[0].Field<string>("Area");
                                 Usuario.Instance().Usser = dtUserInfo.Rows[0].Field<string>("Usser");
-                                Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
+                                //Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
                                 Usuario.Instance().idTipo = dtUserInfo.Rows[0].Field<int>("idTipo");
                                 Usuario.Instance().idArea = dtUserInfo.Rows[0].Field<int>("idArea");
                                 Usuario.Instance().Correo = dtUserInfo.Rows[0].Field<string>("Correo");
                                // Menu.AsignarNombreUsuario(Usuario.Instance().Usser); //ASIGNAR NOMBRE DE USUARIO EN SESION EN FRMPRINCIPAL
-                                Menu.TipoAcceso = "PRODUCCION";
+                                Menu.TipoAcceso = "2";//MAQUINARIAS
                                 Menu.AccesoActual = dtUserInfo.Rows[0].Field<int>("IdArea").ToString();
                                 Menu.ConfigurarMenuAcceso();
+                                
 
-
+                                    
                                 //frmReportesG.AsignarNombreUsuario(Usuario.Instance().UserName);
                                 //frmReportesG.TipoAcceso = "ADMIN";
                                 //frmReportesG.AccesoActual = dtUserInfo.Rows[0].Field<int>("IdAtributo").ToString();
@@ -92,12 +94,12 @@ namespace WindowsViews
                                 Usuario.Instance().Apellido = dtUserInfo.Rows[0].Field<string>("Apellido");
                                 Usuario.Instance().Area = dtUserInfo.Rows[0].Field<string>("Area");
                                 Usuario.Instance().Usser = dtUserInfo.Rows[0].Field<string>("Usser");
-                                Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
+                                //Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
                                 Usuario.Instance().idTipo = dtUserInfo.Rows[0].Field<int>("idTipo");
                                 Usuario.Instance().idArea = dtUserInfo.Rows[0].Field<int>("idArea");
                                 Usuario.Instance().Correo = dtUserInfo.Rows[0].Field<string>("Correo");
                                 //frmParentForm.AsignarNombreUsuario(Usuario.Instance().UserName);
-                                Menu.TipoAcceso = "MANTENCION";
+                                Menu.TipoAcceso = "3";//"MANTENCION";
                                 Menu.AccesoActual = dtUserInfo.Rows[0].Field<int>("IdArea").ToString();
                                 Menu.ConfigurarMenuAcceso();
 
@@ -113,12 +115,12 @@ namespace WindowsViews
                                 Usuario.Instance().Apellido = dtUserInfo.Rows[0].Field<string>("Apellido");
                                 Usuario.Instance().Area = dtUserInfo.Rows[0].Field<string>("Area");
                                 Usuario.Instance().Usser = dtUserInfo.Rows[0].Field<string>("Usser");
-                                Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
+                                //Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
                                 Usuario.Instance().idTipo = dtUserInfo.Rows[0].Field<int>("idTipo");
                                 Usuario.Instance().idArea = dtUserInfo.Rows[0].Field<int>("idArea");
                                 Usuario.Instance().Correo = dtUserInfo.Rows[0].Field<string>("Correo");
                                 //frmParentForm.AsignarNombreUsuario(Usuario.Instance().UserName);
-                                Menu.TipoAcceso = "AUTOMATIZACION";
+                                Menu.TipoAcceso = "1";//AUTOMATIZACION
                                 Menu.AccesoActual = dtUserInfo.Rows[0].Field<int>("IdArea").ToString();
                                 Menu.ConfigurarMenuAcceso();
 
@@ -135,12 +137,12 @@ namespace WindowsViews
                                 Usuario.Instance().Apellido = dtUserInfo.Rows[0].Field<string>("Apellido");
                                 Usuario.Instance().Area = dtUserInfo.Rows[0].Field<string>("Area");
                                 Usuario.Instance().Usser = dtUserInfo.Rows[0].Field<string>("Usser");
-                                Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
+                               // Usuario.Instance().Pass = dtUserInfo.Rows[0].Field<string>("Pass");
                                 Usuario.Instance().idTipo = dtUserInfo.Rows[0].Field<int>("idTipo");
                                 Usuario.Instance().idArea = dtUserInfo.Rows[0].Field<int>("idArea");
                                 Usuario.Instance().Correo = dtUserInfo.Rows[0].Field<string>("Correo");
                                 //frmParentForm.AsignarNombreUsuario(Usuario.Instance().UserName);
-                                Menu.TipoAcceso = "INFORMATICA";
+                                Menu.TipoAcceso = "0";//INFORMATICA
                                 Menu.AccesoActual = dtUserInfo.Rows[0].Field<int>("IdArea").ToString();
                                 Menu.ConfigurarMenuAcceso();
 
@@ -155,12 +157,13 @@ namespace WindowsViews
                                 //          MessageBoxButtons.OK,
                                 //          MessageBoxIcon.Information,
                                 //          370);
-                                break;
+                                //break;
                         }
                     }
                     else
                     {
-                        
+
+                        MessageBox.Show("Lacontra no coincide");
                         //MetroFramework.MetroMessageBox.Show(frmParentForm, "La Contraseña no Coincide",
                         //                    "Contraseña Incorrecta",
                         //                    MessageBoxButtons.OK,
@@ -172,6 +175,8 @@ namespace WindowsViews
                 }
                 else
                 {
+
+                    MessageBox.Show("Usuario No Registrado en la Base de Datos");
                     //MetroFramework.MetroMessageBox.Show(frmParentForm, "Numero de RUT No Registrado en la Base de Datos",
                     //                            "RUT Sin Coincidencia",
                     //                            MessageBoxButtons.OK,

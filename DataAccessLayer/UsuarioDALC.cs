@@ -25,7 +25,7 @@ namespace DataAccessLayer
             return oInstance;
         }
 
-        public DataTable VerificarRutPass(string Usser, string Pass)
+        public DataTable VerificarRutPass(string rutUsuario, string Pass)
         {
             
             DataTable DtResultado = new DataTable();
@@ -40,7 +40,7 @@ namespace DataAccessLayer
 
                 SlqCon.Open();
                 SqlCmd.CommandType = CommandType.StoredProcedure;
-                SqlCmd.Parameters.Add(new SqlParameter("@Usser", Usser));
+                SqlCmd.Parameters.Add(new SqlParameter("@rutUsuario", rutUsuario));
                 SqlCmd.Parameters.Add(new SqlParameter("@Pass", Pass));
 
                 SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);

@@ -333,6 +333,9 @@
   <data name="txtPass.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 172</value>
   </data>
+  <data name="txtPass.PasswordChar" type="System.Char, mscorlib" xml:space="preserve">
+    <value>*</value>
+  </data>
   <data name="txtPass.Size" type="System.Drawing.Size, System.Drawing">
     <value>174, 20</value>
   </data>

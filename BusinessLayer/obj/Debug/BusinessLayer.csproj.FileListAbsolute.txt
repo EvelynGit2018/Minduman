@@ -12,3 +12,12 @@ C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debu
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\eveliz\Desktop\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\BusinessLayer.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\BusinessLayer.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\DataAccessLayer.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\Entities.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\bin\Debug\Entities.pdb
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.dll
+\\EVELIZ-HP280\Users\eveliz\Desktop\Públicos\Proyecto Mantencion C#\Mantencion\BusinessLayer\obj\Debug\BusinessLayer.pdb
